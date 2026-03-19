@@ -39,19 +39,13 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 <h1> <img src="https://raw.githubusercontent.com/proyato/proyato/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-<!--
-Spotify
--->
-
+**📊 GitHub Stats
 <div align="center">
-  <a href="https://t.me/proyato" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
+**
 
-<a href="https://github.com/codeflix-bots">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=codeflix-bots&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
-</a>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
 
