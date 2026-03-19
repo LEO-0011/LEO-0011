@@ -31,13 +31,12 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 
 <p align="center">
-<a href="https://telegram.me/proyato"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://t.me/Leoyagamihere"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://t.me/yagamiuniversse"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
-<h1> <img src="https://raw.githubusercontent.com/proyato/proyato/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 **📊 GitHub Stats
 <div align="center">
@@ -47,7 +46,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 **
 
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/LEO-0011/)
 
 <div style="text-align: center;">
   <a href="">
