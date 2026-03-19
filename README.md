@@ -1,14 +1,14 @@
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
+<a href="https://github.com/LEO-0011"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yagami+;From+tamilnadu%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40yagamiuniversse" alt="https://t.me/Leoyagamihere" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yagami;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
 ## **☕ About me**
 
-<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yagami. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 <br><br>
 
 ## **🧋Cutie Counter**
-<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@codeflix-bots?theme=rule34"></a>
+<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@yagamiuniversse?theme=rule34"></a>
 <a href=""><img align="left" width="100" src="./images/cuite.png"></a>
 
 ```yaml
@@ -19,7 +19,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://t.me/Leoyagamihere"><img src="https://i.ibb.co/MDFk4cw6/x.jpg"></a>
     </p>
 <p align="center">
 
